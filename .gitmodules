@@ -1,9 +1,6 @@
 [submodule "Mapa-Generico-1"]
 	path = Mapa-Generico-1
 	url = https://github.com/gustavonakasone/Mapa-Generico-1.git
-[submodule "Mapa-Generico-2"]
-	path = Mapa-Generico-2
-	url = https://github.com/gustavonakasone/Mapa-Generico-2.git
 [submodule "6.2/Mapa-Generico-2"]
 	path = 6.2/Mapa-Generico-2
 	url = https://github.com/gustavonakasone/Mapa-Generico-2.git
